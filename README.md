@@ -1,4 +1,4 @@
-# Python Machine Learning Workshop
+# Machine Learning with Python
 This is a repository for the 5-day program for Machine Learning with Python at Daegu Il Science High School in January 2025. This program is designed for approaching machine learning through hands-on practices and team projects. 
 
 ## Workshop Goals
