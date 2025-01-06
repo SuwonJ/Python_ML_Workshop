@@ -24,6 +24,8 @@ By the end of this course, students should be able to:
 5. Acquire Knowledge in Model Selection and Tuning
 6. Introduction to Neural Networks and Deep Learning
 
+  [**Slides from Day 1**](https://docs.google.com/presentation/d/1CeUT-AhdMZn3lDrC_gO4CPhXQpsK4QuPuhGSOYx4Ct0/edit#slide=id.g3226bd9e904_0_138)
+
 ## Installation Instructions
 
 Anaconda is a useful package management software that allows you to run Python and Jupyter notebooks very easily. Installing Anaconda is the easiest way to make sure you have all the necessary software to run the materials for this workshop. Complete the following steps:
