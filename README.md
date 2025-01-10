@@ -1,3 +1,6 @@
+<details>
+<summary>Upstream description</summary>
+  
 # Machine Learning with Python
 This is a repository for the 5-day program for Machine Learning with Python at Daegu Il Science High School in January 2025. This program is designed for approaching machine learning through hands-on practices and team projects. 
 
@@ -39,4 +42,23 @@ Anaconda is a useful package management software that allows you to run Python a
 * Extract this file to a folder on your computer
 
 Some of the materials are adapted from [UC Berkeley's D-Lab workshops](https://github.com/dlab-berkeley/)!
+
+</details>
+
+- - - 
+
+# DG1S Machine Learning Workshop
+This repository is a fork of the sample lecture material It contains lesson files which are modified as edited during the class,unfinished final reports, final team project jupiter notebooks, and the presentation file used introducing the project.
+
+## 1.Codes on lessons
+### 1.1. Day 1
+We learnt about basic syntax of python and numpy. I have been focusing in mathmetical and 
+
+### 1.2. Day 2
+The second day was mainly about preprocessing & regression. 
+
+### 1.2. Day 3
+
+
+### 1.2. Day 4
 
