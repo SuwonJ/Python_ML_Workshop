@@ -1,8 +1,11 @@
-**Ethics Guidelines in terms of Machine Learning**  
+# Ethics Guidelines in terms of Machine Learning
 Suwon Jang, Hyein Jo, Yewon Park
 
 **Key words:** beneficence, non-maleficence, autonomy, justice, explicability  
-**Abstract:** As the discussion of the ethical dilemmas have come into real-life problems due to the advance of technologies, the decision of the dilemmas depends solely on engineers, but they shouldn’t be the only one to make the decisions. There must be a guideline which protects the minimum rights for the people who can be involved with the decisions made by machine learning.  
+
+
+**Abstract:** As the discussion of the ethical dilemmas have come into real-life problems due to the advance of technologies, the decision of the dilemmas depends solely on engineers, but they shouldn’t be the only one to make the decisions. There must be a guideline which protects the minimum rights for the people who can be involved with the decisions made by machine learning. 
+
 ---
 
 1. **Beneficence** should not be considered only for specific people, such as the customers of the car, or customers who made a submission to the research.  
